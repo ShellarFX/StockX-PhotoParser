@@ -1,0 +1,6 @@
+C:\Users\Саша\source\repos\StockXPhotoParser\StockXPhotoParser\bin\Debug\StockXPhotoParser.exe.config
+C:\Users\Саша\source\repos\StockXPhotoParser\StockXPhotoParser\bin\Debug\StockXPhotoParser.exe
+C:\Users\Саша\source\repos\StockXPhotoParser\StockXPhotoParser\bin\Debug\StockXPhotoParser.pdb
+C:\Users\Саша\source\repos\StockXPhotoParser\StockXPhotoParser\obj\Debug\StockXPhotoParser.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\StockXPhotoParser\StockXPhotoParser\obj\Debug\StockXPhotoParser.exe
+C:\Users\Саша\source\repos\StockXPhotoParser\StockXPhotoParser\obj\Debug\StockXPhotoParser.pdb
